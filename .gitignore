@@ -10,6 +10,19 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Intellij IDEA
+.idea/
+*.ipr
+*.iml
+*.iws
+*.ids
+*.sonar-ide.properties
+
+# Eclipse
+.classpath
+.project
+.settings/
+
 # Package Files #
 *.jar
 *.war
